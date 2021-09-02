@@ -1,0 +1,6 @@
+*.pyc
+build/
+data/*.pyc
+Game/*.pyc
+tests/*.pyc
+Game/__pycache__/
